@@ -1,2 +1,2 @@
 # rontrellongo
-WP site
+landing page made with word press template
